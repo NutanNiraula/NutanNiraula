@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NutanNiraula, I believe in being versatile engineer and problem solver agnostic of platform and tech stack.
-- 👀 I’m interested in Swift and apple platform development
-- 🌱 I’m currently learning web backend and flutter
+- 👋 Hi, I’m @NutanNiraula, I am a V shaped engineer, full stack mobile engineer with special focus on swift.
+- 👀 I’m Swift expert and apple platform enthusiast
+- 🌱 Firm believer of compiler proof for deterministic code
 - 📫 How to reach me, maybe Twitter https://twitter.com/NiraulaNutan
 
 <!---
